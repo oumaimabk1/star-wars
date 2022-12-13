@@ -51,3 +51,7 @@ h1 {
 	from { top: 0; transform: translateZ(0) rotateX(20deg); }
 	to { top: -7500px; transform: translateZ(-2500px) rotateX(21deg); }
 }
+
+audio{
+    display: none;
+}
