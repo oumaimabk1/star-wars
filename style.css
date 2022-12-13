@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+body{
+    background-image: url(./background.jpg);
+    background-size:contain;
+    overflow: hidden;
+    font-family: 'Roboto';
+}
+
+.wrapper{
+    display: flex;
+    height: 100%;
+    width: 60%;
+    margin: 0 auto;
+}
+
+.scroll-text{
+    color: rgb(47, 56, 134);
+    font-size: 3vw;
+    line-height: 1.5em;
+    font-weight: bold;
+    text-align: justify;
+    position: relative;
+}
+
+h1,h2 {
+    text-align: center;
+}
